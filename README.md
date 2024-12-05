@@ -1,4 +1,5 @@
 # Translator App
+![701shots_so](https://github.com/user-attachments/assets/6ce77632-c856-4493-84d8-01b89cdccb70)
 
 ## Overview
 The Translator App is a user-friendly mobile application built with ML Kit. It provides seamless translation capabilities, allowing users to translate text between the following languages:
